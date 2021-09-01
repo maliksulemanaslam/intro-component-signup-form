@@ -20,12 +20,7 @@ function IsEmail(email) {
       $(".invalid-email").removeClass("show");
       $(".invalid-email").addClass("hide");
     }, 3000);
-  } else {
-    $("input").addClass("is-valid");
-    setTimeout(function() {
-      $("input").removeClass("is-valid");
-    }, 3000);
-  }
+  } 
 }
 
 function validateForm(fname, lname, psswd) {
