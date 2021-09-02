@@ -219,11 +219,11 @@ font-weight: 600;
   }
   .first-div{
     width: 70%!important;
-    transform: translateX(65px);
+    transform: translateX(50px);
     margin-right: 0;
   }
   form{
-    margin-right: 50px;
+    margin-right: 65px;
     height: 32rem;
   }
   .second-div{
@@ -240,7 +240,7 @@ font-weight: 600;
   }
   .top-button{
     width: 63%;
-    transform: translate(70px, -40px);
+    transform: translate(55px, -40px);
     line-height: 3.2;
     padding-left: 40px;
     padding-right: 40px;
